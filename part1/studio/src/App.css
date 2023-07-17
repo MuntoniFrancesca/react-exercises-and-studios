@@ -36,18 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.similarComponents {
-  display:flex;
-justify-content:space-between;
-}
-
-.movieText {
-  color: pink;
-  font-size: 1.5vw;
-  text-align: left;
-}
-
-.movieHeading {
-  text-align:left;
-}

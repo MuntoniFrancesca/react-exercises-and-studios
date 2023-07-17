@@ -11,13 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-.movieText {
-  color: pink;
-  font-size: 1.5vw;
-  text-align: left;
-}
-
-.movieHeading {
-  text-align:left;
-}
