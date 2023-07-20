@@ -1,0 +1,27 @@
+{"projects" : [
+{
+    "canvas": "Fox",
+    "designer": "Francesca",
+    "photoUrl": "https://i.etsystatic.com/9358099/r/il/092cb0/597299854/il_1588xN.597299854_qyrm.jpg",
+    "alt": "Stitched dog"
+ },
+ {
+    "canvas": "Cat",
+    "designer": "Francesca",
+    "photoUrl": "https://pumora.com/wp-content/uploads/2020/05/flower-crown-kitty-by-stitchwithskye.jpg",
+    "alt": "Stitched cat"
+ },
+ {
+    "canvas": "Bird",
+    "designer": "Francesca",
+    "photoUrl": "https://www.needlenthread.com/wp-content/uploads/2018/01/needlepainted-bird-embroidery-13.jpg",
+    "alt": "Stitched bird"
+ },
+ {
+    "canvas": "Mouse",
+    "designer": "Francesca",
+    "photoUrl": "https://i.pinimg.com/736x/7a/81/d1/7a81d1a60dcc974112bdebd57817b748.jpg",
+    "alt": "Stitched mouse"
+ }
+]
+}
