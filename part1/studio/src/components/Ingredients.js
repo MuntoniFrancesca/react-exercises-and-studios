@@ -1,7 +1,7 @@
 import styles from './Ingredients.module.css';
 
 export default function RecipeIngredients() {
-    const ingredients = ["butter", "granulated sugar", "vanilla extract", "2 eggs", "3cups all purpose flour"]
+    const ingredients = ["butter", "granulated sugar", "vanilla extract", "eggs", "purpose flour"]
     return (
     <div>
     <h3>Recipe Ingredients</h3>

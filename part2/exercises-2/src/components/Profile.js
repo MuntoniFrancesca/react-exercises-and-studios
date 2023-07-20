@@ -22,7 +22,7 @@ function Profile()
    return(
       <ul>
          {listItem}
-      </ul> 
+      </ul>
    );
 }
 

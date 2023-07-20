@@ -1,8 +1,6 @@
 import styles from './Description.module.css';
 import React from 'react';
 
-
-
 export default function RecipeAuthor() {
     let authorLink = "https://joyfoodsunshine.com/about-laura/";
     let authorPhoto = "https://joyfoodsunshine.com/wp-content/uploads/2022/12/JFS-profile-pic.jpg";
@@ -18,5 +16,3 @@ export default function RecipeAuthor() {
         </div>
     )
 }
-
-

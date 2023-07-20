@@ -1,6 +1,3 @@
-import React from "react";
-import RecipeAuthor from "./Description";
-
 class RecipeDescription extends React.Component {
     render() {
         return(
